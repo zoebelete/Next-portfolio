@@ -1,7 +1,5 @@
 ## Personal Portfolio
 
-Developer: Teshome Yalew
+Developer: Hiwot's Portfolio
 
 Technologies: Next.js
-
-
