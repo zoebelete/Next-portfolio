@@ -16,7 +16,7 @@ export const projects = [
     image: "https://i.ibb.co/qpfk0z1/gmai.png",
     tags: ["React", "Material Design", "Redux", "Firebase"],
     source: "https://github.com/zoebelete/Linkedin-clone",
-    visit: "romantic-clarke-4f1205.netlify.app",
+    visit: "https://romantic-clarke-4f1205.netlify.app",
     id: 1,
   },
   {
